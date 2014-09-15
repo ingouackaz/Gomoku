@@ -1,0 +1,7 @@
+ALLER DANS LE REPERTOIRE BIN
+
+ cmake ..
+ make -5
+ ./Gomoku
+
+Enjoy it !
